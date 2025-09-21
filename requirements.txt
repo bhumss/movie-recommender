@@ -1,0 +1,30 @@
+# Core Libraries
+numpy==1.26.4
+pandas==2.2.3
+
+# Machine Learning & Recommendation
+scikit-learn==1.5.2
+scipy==1.14.1
+
+# Visualization
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Web App (Optional - if using Streamlit for UI)
+streamlit==1.38.0
+
+# Flask (Optional - if using Flask backend)
+flask==3.0.3
+
+# Jupyter Notebook (For experimentation)
+jupyter==1.1.1
+notebook==7.2.2
+
+# Utilities
+tqdm==4.66.5
+joblib==1.4.2
+
+# For handling text-based similarity
+nltk==3.9.1
+
+
